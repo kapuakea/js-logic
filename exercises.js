@@ -11,6 +11,13 @@ else
 This function will return the statement 'Bring an umbrella' if the boolean value is true.
 */
 
+functions is Rainy(boo){
+    if(bo0 === true){
+        return 'Bring an umbrella';
+    }
+}
+
+console.log(isRainy(true));
 
 
 /*2. Create a function named vaccinated which takes a boolean parameter boo. 
